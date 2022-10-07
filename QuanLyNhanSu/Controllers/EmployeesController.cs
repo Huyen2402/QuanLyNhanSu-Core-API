@@ -39,6 +39,7 @@ namespace QuanLyNhanSu.Controllers
             }
 
             return employee;
+
         }
 
         // PUT: api/Employees/5
